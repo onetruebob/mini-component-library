@@ -56,4 +56,6 @@ const Wrapper = styled.div`
   }
 `;
 
+const IconWrapper = Wrapper;
 export default Icon;
+export {IconWrapper};
